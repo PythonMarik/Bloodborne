@@ -11,8 +11,11 @@
 ---
 # Installation
 ---
-`git clone https://github.com/PythonMarik/Bloodborne`
-`cd Bloodborne`
-`pip install requirements.txt`
+`git clone https://github.com/PythonMarik/Bloodborne
+`
+`cd Bloodborne
+`
+`pip install requirements.txt
+`
 ## To run
 `python bloodborne.py`
